@@ -22,3 +22,18 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
 <h4 align="left">📌 <a href="https://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lightshttps://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lights">Pest Control: The Lure of Lights</a></h4>
 <h4 align="left">📌 <a href="https://www.scielo.br/scielo.php?pid=S1808-16572018000100202&script=sci_arttext">Attractiveness of LEDs of different wavelengths to the South American rice water weevil</a></h4>
 <h4 align="left">📌 <a href="https://www.vectothor.com/lighting-technology-effective-pest-management/">Lighting technology and effective pest management</a></h4>
+<h3 align="center" id="Made_by"> :label: Made By</h3>
+<!--
+[Suvra Shaa](https://github.com/xybercommander)
+[Archishman Sengupta](https://github.com/ArchishmanSengupta)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Archishman_Seng?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FArchishman_Seng&screen_name=Archishman_Seng)
+[![Twitter Follow](https://img.shields.io/twitter/follow/samratsphs?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsamratsphs&screen_name=samratsphs)
+-->
+<p align="center">
+    <a href="https://www.linkedin.com/in/suvrashaw">
+        <img src="https://img.shields.io/static/v1.svg?label=LinkedIn&message=suvrashaw&logo=linkedin&style=social&logoColor=0077b5"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sudipta-sarkar-6b14b5207/">
+        <img src="https://img.shields.io/static/v1.svg?label=LinkedIn&message=sudiptasarkar&logo=linkedin&style=social&logoColor=0077b5"/>
+    </a>
+</p>
