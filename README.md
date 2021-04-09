@@ -1,7 +1,5 @@
 <h3 align="center">Pest Management using Photoresponse</h1>
-<h3 align="center"><a href="https://www.canva.com/design/DAEbFc6fI8E/p5MHxslff0WwYEh5vmxprg/view?utm_content=DAEbFc6fI8E&utm_campaign=designshare&utm_medium=link&utm_source=viewer">For The Poster : Click Here</a></h3>
 <h3 align="center"><img width=50% height=50% alt="Results" src="https://github.com/suvrashaw/PMuPr/blob/prime/PMuPr.jpg"></h3>
-<h3 align="center" id="Competition"> :trophy: SPIE EDI Poster Presentation Competition</h3>
 <h3 align="center" id="Inspiration"> :label: Inspiration</h3>
 <h4>One of my favourite subjects has always been research. This specific research idea had been enticing me for over a year. I've always wanted to focus on it but haven't had the motivation anytime.
 
@@ -17,6 +15,8 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
 + Research +
 ```
 </h3>
+<h3 align="center" id="Competition"> :trophy: SPIE EDI Poster Presentation Competition</h3>
+<h3 align="center"><a href="https://www.facebook.com/spie.uemk/posts/2803835603264588">Winners' Announcement</a></h3>
 <h3 align="center" id="References"> :label: References</h3>
 <h4 align="left">📌 <a href="https://link.springer.com/article/10.1007/s13355-013-0219-x">Insect reactions to light and its applications to pest management</a></h4>
 <h4 align="left">📌 <a href="https://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lightshttps://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lights">Pest Control: The Lure of Lights</a></h4>
