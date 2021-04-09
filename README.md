@@ -2,7 +2,7 @@
     Pest Management using Photoresponse
 </h1>
 <h3 align="center">
-    <img width=50% height=50% alt="Results" src="https://github.com/suvrashaw/PMuPr/blob/prime/PMuPr.jpg">
+    <img width=50% height=50% alt="Results" src="https://github.com/suvrashaw/PMuPr/blob/prime/PMuPr.png">
 </h3>
 <h3 align="center" id="Inspiration">
     :label: Inspiration
