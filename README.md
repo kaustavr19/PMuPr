@@ -19,6 +19,7 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
 
 ```diff
 + Adobe Photoshop +
++ Microsoft Powerpoint +
 + Research +
 ```
 </h3>
