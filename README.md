@@ -25,7 +25,7 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
 </h3>
 <h3 align="center" id="Competitions"> :label: Competitions</h3>
 <h3 align="center" id="Competition"> :trophy: SPIE EDI Poster Presentation Competition – <a href="https://www.facebook.com/spie.uemk/posts/2803835603264588">Winners' Announcement</a></h3>
-<h3 align="center" id="Competition"> :trophy: IIT Roorkee Cognizance 2021 Ideaz ECE – <a href="https://www.facebook.com/cogni.iitr/photos/pcb.5474297869309967/5474297295976691/">Winners' Announcement</a></h3>
+<h3 align="center" id="Competition"> :3rd place medal: IIT Roorkee Cognizance 2021 Ideaz ECE – <a href="https://www.facebook.com/cogni.iitr/photos/pcb.5474297869309967/5474297295976691/">Winners' Announcement</a></h3>
 <h3 align="center" id="References"> :label: References</h3>
 <h4 align="left">📌 <a href="https://link.springer.com/article/10.1007/s13355-013-0219-x">Insect reactions to light and its applications to pest management</a></h4>
 <h4 align="left">📌 <a href="https://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lightshttps://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lights">Pest Control: The Lure of Lights</a></h4>
