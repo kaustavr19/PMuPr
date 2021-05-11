@@ -20,6 +20,7 @@ All of this changed when Shilanjoy Da offered me this chance to participate in t
 When I proposed the poster idea to him (Sudipta), he was immediately enthusiastic. I made the decision that it was now or never. We planned and designed the poster over the course, working until 4 a.m at times. With all our efforts, we were finally able to get the work ready.</h4>
 <h3 align="center"> :label: Tech Stack <br>
 
+<br>
 ```diff
 + Adobe Photoshop +
 + Microsoft Powerpoint +
