@@ -1,6 +1,14 @@
-<h3 align="center">
+<h1 align="center">
     Pest Management using Photoresponse
 </h1>
+
+<h2 align="center">
+    <b>
+        <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">
+        Our Research Poster → <a href="https://drive.google.com/file/d/1_3mDdNHt8O6P_aPT799oLyYVZbwjTNNa/view?usp=sharing">Click Here</a>
+        <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">
+    </b>
+</h2>
 <h3 align="center">
     <img width=50% height=50% alt="Results" src="https://github.com/suvrashaw/PMuPr/blob/prime/PMuPr.png">
 </h3>
@@ -23,9 +31,9 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
 + Research +
 ```
 </h3>
-<h3 align="center" id="Competitions"> :label: Competitions</h3>
-<h3 align="center" id="Competition"> 🥈 SPIE EDI Poster Presentation – <a href="https://www.facebook.com/spie.uemk/posts/2803835603264588">Winners' Announcement</a></h3>
-<h3 align="center" id="Competition"> 🥉 IIT Roorkee Cognizance 2021, Ideaz ECE – <a href="https://www.facebook.com/cogni.iitr/photos/pcb.5474297869309967/5474297295976691/">Winners' Announcement</a></h3>
+<h3 align="center"> :label: Competitions</h3>
+<h3 align="center"> 🥈 SPIE EDI Poster Presentation – <a href="https://www.facebook.com/spie.uemk/posts/2803835603264588">Winners' Announcement</a></h3>
+<h3 align="center"> 🥉 IIT Roorkee Cognizance 2021, Ideaz ECE – <a href="https://www.facebook.com/cogni.iitr/photos/pcb.5474297869309967/5474297295976691/">Winners' Announcement</a></h3>
 <h3 align="center" id="References"> :label: References</h3>
 <h4 align="left">📌 <a href="https://link.springer.com/article/10.1007/s13355-013-0219-x">Insect reactions to light and its applications to pest management</a></h4>
 <h4 align="left">📌 <a href="https://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lightshttps://www.manufacturing.net/operations/article/13163285/pest-control-the-lure-of-lights">Pest Control: The Lure of Lights</a></h4>
