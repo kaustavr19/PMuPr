@@ -18,7 +18,7 @@ Sudipta has always been a good friend of mine for nearly 15 years now. We have b
 All of this changed when Shilanjoy Da offered me this chance to participate in the #poster presentation competition organised by <a href="https://www.facebook.com/spie.uemk">SPIE OSA UEM Kolkata Student Chapter</a>.
 
 When I proposed the poster idea to him (Sudipta), he was immediately enthusiastic. I made the decision that it was now or never. We planned and designed the poster over the course, working until 4 a.m at times. With all our efforts, we were finally able to get the work ready.</h4>
-<h3 align="center"> :label: Tech Stack
+<h3 align="center"> :label: Tech Stack <br>
 
 ```diff
 + Adobe Photoshop +
