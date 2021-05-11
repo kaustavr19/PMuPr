@@ -5,9 +5,7 @@
     <img width=50% height=50% alt="Results" src="https://github.com/suvrashaw/PMuPr/blob/prime/PMuPr.png">
 </h3>
 <h2 align="center">
-    <b>
         <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px"> Our Research Paper → <a href="https://drive.google.com/file/d/1_3mDdNHt8O6P_aPT799oLyYVZbwjTNNa/view?usp=sharing">Click Here</a> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" height="30px" width-"30px">
-    </b>
 </h2>
 <h3 align="center">
     :label: Inspiration
