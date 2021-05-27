@@ -43,5 +43,6 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
         <img src="https://img.shields.io/static/v1.svg?label=LinkedIn&message=sudiptasarkar&logo=linkedin&style=social&logoColor=0077b5"/>
     </a>
 </p>
-
-[![Stargazers repo roster for @suvrashaw/PMuPr](https://reporoster.com/stars/suvrashaw/PMuPr)](https://github.com/suvrashaw/PMuPr/stargazers)
+<p align="center">
+    [![Stargazers repo roster for @suvrashaw/PMuPr](https://reporoster.com/stars/suvrashaw/PMuPr)](https://github.com/suvrashaw/PMuPr/stargazers)
+</p>
