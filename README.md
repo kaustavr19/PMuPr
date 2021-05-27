@@ -44,5 +44,7 @@ When I proposed the poster idea to him (Sudipta), he was immediately enthusiasti
     </a>
 </p>
 <p align="center">
+    
     [![Stargazers repo roster for @suvrashaw/PMuPr](https://reporoster.com/stars/suvrashaw/PMuPr)](https://github.com/suvrashaw/PMuPr/stargazers)
+    
 </p>
